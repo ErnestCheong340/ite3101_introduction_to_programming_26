@@ -1,1 +1,1 @@
-todays_date = datet
+todays_date = datetime()
