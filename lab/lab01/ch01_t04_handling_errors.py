@@ -2,4 +2,4 @@
 # print(You take away its chair!)
 
 print("Mismatched quotes will cause a SyntaxError")
-print() Without quotes will cause a NameError
+print("Without quotes will cause a NameError
