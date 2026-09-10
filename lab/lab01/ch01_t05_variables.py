@@ -1,1 +1,1 @@
-temp_locals['todays_date'], datetime.now()
+temp_locals['todays_date'], datetime.now();
