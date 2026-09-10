@@ -1,3 +1,3 @@
 import datetime
 
-todays_date = (10,9,2026);
+todays_date = datetime;
