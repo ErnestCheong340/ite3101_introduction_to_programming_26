@@ -1,3 +1,3 @@
 import datetime
 
- = datetime.datetime.now();
+todays_date = datetime.datetime.now();
