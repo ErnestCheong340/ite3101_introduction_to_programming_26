@@ -1,3 +1,3 @@
 import datetime
 
-todays_date = datetime(dd);
+todays_date = datetime(%d/%m/%Y);
