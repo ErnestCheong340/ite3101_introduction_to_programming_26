@@ -1,1 +1,1 @@
-todays_date = da(10,9,2026);
+todays_date = date(10,9,2026);
